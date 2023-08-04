@@ -35,7 +35,7 @@ h1 {
 
 @media only screen and (max-width: 414px) {
   h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     max-width: 75vw;
   }
   .subtitle {
